@@ -1,3 +1,4 @@
+import utils.displayShrek
 import utils.validate
 import utils.validateForDouble
 
@@ -20,6 +21,7 @@ fun showPresentMessage(){
             "\n 2) Деление" +
             "\n 3) Сложение" +
             "\n 4) Вычитание" +
+            "\n 5) Показать шрека?..." +
             "\nПожалуйста выберите операцию: "
     )
 }
@@ -130,6 +132,10 @@ fun chooseOperation(num : Int){
             }else{
                 chooseOperation(num)
             }
+        }
+        5 ->{
+            displayShrek()
+            println("Hello Shrek!!")
         }
     }
     repeatCalculator()
