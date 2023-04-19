@@ -48,46 +48,10 @@ fun chooseOperation(num : Int){
 
     when(num){
         1 -> {
-            println("Выбрано умножение.\nВведите первое число: ")
-            var number1 = readLine()
-
-            while(!validate(number1)){
-                number1 = readLine()
-            }
-
-            println("Введите второе число:")
-            var number2 = readLine()
-
-            while(!validate(number2)){
-                number2 = readLine()
-            }
-
-            if(validateForDouble(number1) || validateForDouble(number2)){
-                println("Вывод: ${operations.multiplication(number1!!.toDouble(), number2!!.toDouble()).toInt()}")
-            }else{
-                chooseOperation(num)
-            }
+            
         }
         2 -> {
-            println("Выбрано деление.\nВведите первое число: ")
-            var number1 = readLine()
 
-            while(!validate(number1)){
-                number1 = readLine()
-            }
-
-            println("Введите второе число:")
-            var number2 = readLine()
-
-            while(!validate(number2)){
-                number2 = readLine()
-            }
-
-            if(validateForDouble(number1) || validateForDouble(number2)){
-                println("Вывод: ${operations.division(number1!!.toDouble(), number2!!.toDouble()).toInt()}")
-            }else{
-                chooseOperation(num)
-            }
         }
         3 -> {
             println("Выбрано сложение.\nВведите первое число: ")
