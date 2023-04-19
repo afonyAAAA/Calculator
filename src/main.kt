@@ -110,6 +110,27 @@ fun chooseOperation(num : Int){
                 chooseOperation(num)
             }
         }
+        4 ->{
+            println("Выбрано вычитание.\nВведите первое число: ")
+            var number1 = readLine()
+
+            while(!validate(number1)){
+                number1 = readLine()
+            }
+
+            println("Введите второе число:")
+            var number2 = readLine()
+
+            while(!validate(number2)){
+                number2 = readLine()
+            }
+
+            if(validateForDouble(number1) || validateForDouble(number2)){
+                println("Вывод: ${operations.subtraction(number1!!.toDouble(), number2!!.toDouble()).toInt()}")
+            }else{
+                chooseOperation(num)
+            }
+        }
     }
     repeatCalculator()
 }
