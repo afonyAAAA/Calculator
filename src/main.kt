@@ -62,7 +62,7 @@ fun chooseOperation(num : Int){
 
         }
         5 ->{
-
+            displayShrek()
         }
     }
     repeatCalculator()
