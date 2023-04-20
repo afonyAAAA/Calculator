@@ -1,3 +1,3 @@
-package utils.functions
+package functions
 
 fun subtraction(num1: Double, num2: Double): Double = num1 - num2
