@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3bff18af-7208-4a01-b844-0f565039bd0d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MathematicalOperations.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Operations.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/validator.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="d3ea0320-f475-414e-ab56-c583f1e8d9bf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_jetbrains_kotlinx_kotlinx_coroutines_core_jvm_1_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dancingGirl.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/praktika_miapo/META-INF/praktika_miapo.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/praktika_miapo/META-INF/praktika_miapo.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/praktika_miapo/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/praktika_miapo/MainKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/praktika_miapo/MathematicalOperations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/praktika_miapo/Operations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/praktika_miapo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/praktika_miapo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MathematicalOperations.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Operations.kt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/validatots.kt" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,38 +30,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="986">
-              <caret line="58" column="44" lean-forward="true" selection-start-line="58" selection-start-column="44" selection-end-line="58" selection-end-column="44" />
+            <state relative-caret-position="187">
+              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
               <folding>
-                <element signature="e#0#85#0" expanded="true" />
+                <element signature="e#0#127#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/MathematicalOperations.kt">
+        <entry file="file://$PROJECT_DIR$/src/dancingGirl.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Operations.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/utils/validator.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+            <state relative-caret-position="2">
+              <caret line="386" lean-forward="true" selection-start-line="386" selection-end-line="386" />
             </state>
           </provider>
         </entry>
@@ -82,6 +70,7 @@
         <option value="$PROJECT_DIR$/src/utils/validator.kt" />
         <option value="$PROJECT_DIR$/src/MathematicalOperations.kt" />
         <option value="$PROJECT_DIR$/src/main.kt" />
+        <option value="$PROJECT_DIR$/src/dancingGirl.kt" />
       </list>
     </option>
   </component>
@@ -97,8 +86,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -109,31 +96,24 @@
             <path>
               <item name="praktika_miapo" type="b2602c69:ProjectViewProjectNode" />
               <item name="praktika_miapo" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="praktika_miapo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="praktika_miapo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="praktika_miapo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
-    <property name="Repository.Attach.Annotations" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="true" />
     <property name="Repository.Attach.Sources" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$MAVEN_REPOSITORY$/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
@@ -150,7 +130,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="praktika_miapo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
@@ -183,10 +163,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="1912" y="3" width="1936" height="1056" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -195,7 +174,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.93932825" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -218,41 +197,36 @@
     <entry file="file://$PROJECT_DIR$/praktika_miapo.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/functions/multiplication.kt">
+    <entry file="file://$PROJECT_DIR$/src/functions/multiplication.kt" />
+    <entry file="file://$PROJECT_DIR$/src/utils/validator.kt" />
+    <entry file="file://$PROJECT_DIR$/src/MathematicalOperations.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="47" selection-start-line="2" selection-start-column="47" selection-end-line="2" selection-end-column="47" />
+        <state relative-caret-position="255">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Operations.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/utils/validator.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        <state>
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="986">
-          <caret line="58" column="44" lean-forward="true" selection-start-line="58" selection-start-column="44" selection-end-line="58" selection-end-column="44" />
+        <state relative-caret-position="187">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
           <folding>
-            <element signature="e#0#85#0" expanded="true" />
+            <element signature="e#0#127#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MathematicalOperations.kt">
+    <entry file="file://$PROJECT_DIR$/src/dancingGirl.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        <state relative-caret-position="2">
+          <caret line="386" lean-forward="true" selection-start-line="386" selection-end-line="386" />
         </state>
       </provider>
     </entry>
@@ -321,7 +295,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>KotlinJavaRuntime (2)</last-edited>
+          <last-edited>org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.4.2</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
